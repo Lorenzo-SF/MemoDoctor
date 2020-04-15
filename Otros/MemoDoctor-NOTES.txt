@@ -1,0 +1,26 @@
+
+Pendiente:
+	Revisar navegaciones pesadas
+	Revisar navegaciones para que si le das a atras en la lista, salga directamente y no pase por otras activitis (como la splash) => REHECHA SPLASH
+	
+	Otros:
+		Meter los string estaticos en el archivo de recursos y usarlo.
+		Crear splash screen para cargar la lista de citas y la de tipos de citas y guardarlas en algun sitio en comun (como en la sesion en web). Puede que sea en "application".
+		Buscar iconos para los diferentes tipos de cita.
+		Ver como tener el path en bdd para luego usarlo al pintar la lista.
+		Crear demonio que esté pendiente de cuando AVISAR.
+		Crear "configuracion" para configurar google drive.
+			Inicia sesion 
+				¿Existe en google drive backup? 
+					Si => Preguntar si quiere instancia nueva o usar backup.
+					No => Instancia nueva.
+
+		En menu "acerca de" hacer referencia a los que hicieron los iconos.
+		Añadir mensaje en la pantalla del listado para cuando la lista esté vacia.
+		Buscar icono para el boton de crear cita
+
+Pendiente de ver (udemy/youtube)		
+	Shared preferences (creo que sera util para google drive).
+	Splash screen (para la carga de datos incial, incluidos los datepicker).
+	Terminar de ver lo de realm, por si hay cosas utiles (de cara a performance).
+
